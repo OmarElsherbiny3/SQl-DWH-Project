@@ -17,7 +17,9 @@ The project is built using the Medallion Architecture approach, which organizes 
 - Structured using Star Schema  
 - Optimized for reporting  
 
----
+---<p align="center">
+  <img src="docs/Stucture Diagram.png" alt="Structure Diagram">
+</p>
 
 ## 📖 Project Overview
 
